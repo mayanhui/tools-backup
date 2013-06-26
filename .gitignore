@@ -1,0 +1,10 @@
+.classpath
+out/*
+logs/*
+tests/log/*
+*.swp
+*~
+.project
+.settings
+target
+
